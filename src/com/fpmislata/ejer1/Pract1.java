@@ -49,7 +49,7 @@ public class Pract1 {
          }
          }*/
 
-        /*persona.setNombre("pepe");
+        /*persona.setNombre("pepe");//
          persona.setAp1("garcia");
          persona.setSexo(Sexo.HOMBRE);*/
 
